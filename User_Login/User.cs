@@ -65,7 +65,7 @@ namespace User_Login
                     }
                     
                 }
-            if (password.Length < 7)
+            if (password.Length < 8)
             {
                 Console.WriteLine("Sifre de minimum 8 simvol olmalidir");
 
