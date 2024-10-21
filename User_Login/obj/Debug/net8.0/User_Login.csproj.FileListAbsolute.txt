@@ -1,0 +1,14 @@
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\bin\Debug\net8.0\User_Login.exe
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\bin\Debug\net8.0\User_Login.deps.json
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\bin\Debug\net8.0\User_Login.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\bin\Debug\net8.0\User_Login.dll
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\bin\Debug\net8.0\User_Login.pdb
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.dll
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\refint\User_Login.dll
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.pdb
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\User_Login.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\User_Login\User_Login\obj\Debug\net8.0\ref\User_Login.dll
