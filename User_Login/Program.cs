@@ -14,18 +14,18 @@
 
                 Console.Write("Fullname : ");
                 string name = Console.ReadLine();
-                name.Trim();
+                
                 Console.Write("E-mail : ");
                 string email = Console.ReadLine();
-                email.Trim();
+                
                 Console.WriteLine("Sifre teyin edin !\n-Sifre en az 8 simvol ibaret olmalidir\n-En az bir reqem olmalidir\n-En az bir boyuk" +
                     "herf olmalidir\n-En az bir kicik herf olmalidir\n-En az bir reqem olmalidir!!!");
                 Console.Write("Password : ");
                 do
                 {
                     string password = Console.ReadLine();
-                    password.Trim();
-                   user1 = new User(name, email, password);
+                    
+                   user1 = new User(name.Trim(), email.Trim(), password.Trim());
                     user1.PasswordCheck(password);
                    
                 } while (!user1.IsPasswordCorrect);
